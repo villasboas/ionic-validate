@@ -1,0 +1,28 @@
+{
+  "name": "ionic-validate",
+  "version": "1.0.0",
+  "description": "A Ionic 3 form validation tool",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/villasboas/ionic-validate.git"
+  },
+  "keywords": [
+    "ionic",
+    "validation",
+    "form-validation"
+  ],
+  "author": "villasboas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/villasboas/ionic-validate/issues"
+  },
+  "homepage": "https://github.com/villasboas/ionic-validate#readme",
+  "dependencies": {
+    "@angular/core": "^4.1.3",
+    "@angular/forms": "^4.1.3"
+  }
+}
